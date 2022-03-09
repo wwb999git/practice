@@ -1,0 +1,12 @@
+F:\代码\vs代码\eluosiwindows\eluosiwindows\bin\Debug\eluosiwindows.exe.config
+F:\代码\vs代码\eluosiwindows\eluosiwindows\bin\Debug\eluosiwindows.exe
+F:\代码\vs代码\eluosiwindows\eluosiwindows\bin\Debug\eluosiwindows.pdb
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.csprojResolveAssemblyReference.cache
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.Form1.resources
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.Properties.Resources.resources
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.csproj.GenerateResource.Cache
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.exe
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.pdb
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.Form2.resources
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.Form4.resources
+F:\代码\vs代码\eluosiwindows\eluosiwindows\obj\Debug\eluosiwindows.Form3.resources
